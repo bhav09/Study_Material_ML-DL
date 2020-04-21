@@ -1,2 +1,4 @@
 # Study_Material_ML
-Study material one may need in his journey from zero to hero in Machine Learning ..
+The Study material that one may need in his journey from zero to hero in Machine Learning ..
+
+Uploading and scraping of good quality of material is still in progress, hence a private repo.
