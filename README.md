@@ -2,3 +2,5 @@
 The Study material that one may need in his journey from zero to hero in Machine Learning ..
 
 Uploading and scraping of good quality of material is still in progress, hence a private repo.
+
+Google Colab : How to use it  https://research.google.com/colaboratory/faq.html
